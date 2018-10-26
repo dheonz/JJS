@@ -1,1 +1,1 @@
-# JJS
+# Kumpulan Java Script code
